@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geldregen
 - 👀 I’m interested in video gaming industry 
-- 🌱 I’m currently learning C==, Art, C#, Python, JS
+- 🌱 I’m currently learning C++, Art, C#, Python, JS
 - 💞️ I’m looking to collaborate on Discord, Slack
 - 📫 How to reach me Twitter (@geldregen__), Discord (geldregen { }; #1337)
 
